@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:LucasPaszinski/nlw2_omnistack_backend.git
+[submodule "web"]
+	path = web
+	url = git@github.com:LucasPaszinski/nlw2_omnistack_frontend.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:LucasPaszinski/nlw2_omnistack_mobile.git
